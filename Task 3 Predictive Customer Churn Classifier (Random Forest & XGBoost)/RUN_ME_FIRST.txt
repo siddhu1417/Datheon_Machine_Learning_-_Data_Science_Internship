@@ -1,0 +1,5 @@
+1) Install Python 3.10+
+2) Run: pip install -r requirements.txt
+3) Run: jupyter notebook
+4) Open Telecom_Customer_Churn_Ensemble.ipynb and select Run All
+See README.md for full instructions.
